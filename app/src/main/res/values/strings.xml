@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejemplo</string>
+    <string name="add_note">Agregar Nota</string>
+    <string name="note_content">Escribe algo...</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+</resources>
